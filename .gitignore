@@ -182,3 +182,11 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Heavy data files
+notebooks/data/denue/cdmx/
+notebooks/data/denue/edomex_1/
+notebooks/data/denue/edomex_2/
+notebooks/data/denue/hidalgo/
+notebooks/cache/
+notebooks/data/cache/
